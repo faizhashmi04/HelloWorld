@@ -3,4 +3,4 @@ I have added .md in the title
 
 #### This is another header in the heading 
 This is something fancy 
-'this is a code' 
+`this is a code` 
